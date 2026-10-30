@@ -1,10 +1,14 @@
-{ 
-  "name": "SpicyStats", 
-  "description": "A modern Spotify analytics dashboard for Spicetify with listening statistics, top artists, tracks, album artwork and a custom Playbar button.", 
-  "main": "index.js", 
-  "readme": "README.md", 
-  "authors": [ 
-    { "name": "luekvi1", 
-      "url": "https://github.com/luekvi1" } ], 
-  "tags": [ "spicetify", "spotify", "analytics", "statistics", "dashboard", "music", "utility" ] 
+{
+  "name": "SpicyStats",
+  "description": "A modern Spotify analytics dashboard for Spicetify with listening statistics, top artists, tracks, album artwork and a custom Playbar button.",
+  "main": "index.js",
+  "preview": "preview.png",
+  "readme": "README.md",
+  "authors": [
+    { 
+      "name": "luekvi1", 
+      "url": "https://github.com/luekvi1" 
+    }
+  ],
+  "tags": [ "spicetify", "spotify", "analytics", "statistics", "dashboard", "music", "utility" ]
 }
