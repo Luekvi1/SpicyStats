@@ -1,2 +1,30 @@
 # SpicyStats
-SpicyStats is a Spotify analytics dashboard built for Spicetify. It provides detailed listening statistics, including top artists, most-played tracks, listening history, and personalized insights — all wrapped in a clean, modern interface inspired by Spotify.
+
+A modern Spotify analytics dashboard for Spicetify that lets you explore your listening habits, discover your most-played artists and tracks, and view your music statistics in a beautiful Spotify-inspired interface.
+
+# Features
+
+- *Listening Statistics** – Track your listening activity and play counts.
+- *Top Artists* – Discover your most-listened artists with profile pictures.
+- *Top Tracks* – See your most-played songs with album artwork.
+- *Album Artwork* – Beautiful cover images throughout the dashboard.
+- *Custom Playbar Button* – Open SpicyStats directly from the Spotify Playbar using a dedicated analytics icon.
+- *Modern Dashboard* – Clean, responsive interface inspired by Spotify.
+- *Listening Insights* – Get a better overview of your music taste and listening habits.
+
+# Installation via Marketplace (Recommended)
+
+Open the Spicetify Marketplace in Spotify, search for **SpicyStats**, and click **Install**.
+
+# Manual Installation
+
+1. Download `index.js` from this repository.
+2. Place the file in your Spicetify Extensions folder:
+
+   `%appdata%\spicetify\Extensions`
+
+3. Open PowerShell or your terminal.
+4. Add the extension:
+
+   ```powershell
+   spicetify config extensions index.js
