@@ -20,7 +20,7 @@ Open the Spicetify Marketplace in Spotify, search for **SpicyStats**, and click 
 
 https://github.com/user-attachments/assets/918e3e47-8b7b-4a25-986d-65f580e57317
 
-1. Download `index.js` from this repository.
+1. Download `spicystats.js` from this repository.
 2. Place the file in your Spicetify Extensions folder:
 
    `%appdata%\spicetify\Extensions`
@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/918e3e47-8b7b-4a25-986d-65f580e57317
 4. Add the extension:
 
    ```powershell
-   spicetify config extensions index.js
+   spicetify config extensions spicystats.js
 
 # Spotify Data
 
