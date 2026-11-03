@@ -1,6 +1,7 @@
 # SpicyStats
 
 A modern Spotify analytics dashboard for Spicetify that lets you explore your listening habits, discover your most-played artists and tracks, and view your music statistics in a beautiful Spotify-inspired interface.
+<img width="653" height="864" alt="preview" src="https://github.com/user-attachments/assets/2c780789-7e48-4091-aa6b-905c582557ac" />
 
 # Features
 
