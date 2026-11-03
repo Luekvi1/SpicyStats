@@ -18,7 +18,7 @@ Open the Spicetify Marketplace in Spotify, search for **SpicyStats**, and click 
 
 # Manual Installation
 
-https://github.com/user-attachments/assets/9d663486-9c23-4c9a-8073-4a0ad15c8c32
+https://github.com/user-attachments/assets/918e3e47-8b7b-4a25-986d-65f580e57317
 
 1. Download `index.js` from this repository.
 2. Place the file in your Spicetify Extensions folder:
@@ -33,4 +33,4 @@ https://github.com/user-attachments/assets/9d663486-9c23-4c9a-8073-4a0ad15c8c32
 
 # Spotify Data
 
-https://github.com/user-attachments/assets/918e3e47-8b7b-4a25-986d-65f580e57317
+https://github.com/user-attachments/assets/9d663486-9c23-4c9a-8073-4a0ad15c8c32
